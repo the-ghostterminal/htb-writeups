@@ -16,6 +16,12 @@ would have seen. The last section matters most to me.
 
 More will land here as I finish them.
 
+## Retired machines
+
+| Box | OS | Writeup |
+|---|---|---|
+| CAP | Linux | [cap.md](cap.md) |
+
 ## Why the writeups stop where they do
 
 I do not publish walkthroughs for active machines. If a box is still running,
