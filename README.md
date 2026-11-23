@@ -20,6 +20,7 @@ More will land here as I finish them.
 
 | Box | OS | Writeup |
 |---|---|---|
+| ARCHETYPE | Windows | [archetype.md](archetype.md) |
 | CAP | Linux | [cap.md](cap.md) |
 
 ## Why the writeups stop where they do
